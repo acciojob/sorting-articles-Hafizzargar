@@ -1,5 +1,6 @@
 //your JS code here. If required.
-const bands = ['The Beatles', 'Led Zeppelin', 'Pink Floyd', 'Aerosmith'];
+const bands = ['The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'Norma Jean', 'The Bled', 'Say Anything', 'The Midway State', 'We Came as Romans', 'Counterparts', 'Oh, Sleeper', 'A Skylit Drive', 'Anywhere But Here', 'An Old Dog'];
+
 
 // Define the strip function to remove common words from band names
 function strip(word) {
